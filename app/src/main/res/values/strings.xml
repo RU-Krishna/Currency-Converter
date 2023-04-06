@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="error_message">Check your Internet Connection</string>
+    <string name="error_headline">Network Unavailable</string>
+    <string name="app_bar_test_tag">Currency App Bar</string>
+    <string name="progress_indicator_test_tag">Progress Spinner</string>
+    <string name="alert_dialog_test_tag">Alert Dialog</string>
+    <string name="alert_icon_content_desc">Network Error</string>
+    <string name="bottom_sheet_test_tag">Bottom Sheet</string>
+    <string name="from_button_drop_down">From Button Drop Down</string>
+    <string name="to_button_drop_down">To Button Drop Down</string>
+    <string name="currency_exchange_button_from">From Currency Exchange Button</string>
+    <string name="currency_exchange_button_to">To Currency Exchange Button</string>
+
+
+
+</resources>
